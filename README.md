@@ -13,3 +13,6 @@
     - Col 2 - 1 fraction
     - Col 3 - min-size: 100px, max-size 350px
 ![grid2-mock](/assets/grid2-reference.png)
+
+------------
+In Case you lose the link: https://github.com/wi-fighters/49-uib-layout-grid-parent-SimonSchoetz
